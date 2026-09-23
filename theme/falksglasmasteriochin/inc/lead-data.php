@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'HB Falks Glasmästeri & Inramningsaffär',
+	'bransch'        => 'Glasmästare',
 	'telefon'        => '072-251 24 84',
 	'telefon_tel'    => '+46722512484',
 	'ort'            => 'Helsingborg',
